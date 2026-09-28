@@ -1,3 +1,6 @@
+> **Provenance note**  
+> This repository is a personal mirror/fork of the upstream IA32-doc work (including [HyperDbg/ia32-doc](https://github.com/HyperDbg/ia32-doc)). The core project and historical commits are upstream work, not my original authorship. I keep this copy as a low-level Intel architecture reference for debugging, virtualization, and systems experiments; use commit attribution to identify any downstream changes.
+
 # IA32-doc
 
 IA32-doc is a project which aims to put as many definitions from the _Intel Manual_
